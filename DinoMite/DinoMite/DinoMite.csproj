@@ -195,7 +195,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Images\add2.png" />
     <Content Include="Images\bdxp.png" />
+    <Content Include="Images\carosolAdd.png" />
+    <Content Include="Images\dynomite.png" />
+    <Content Include="Images\dynomytelogo.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
